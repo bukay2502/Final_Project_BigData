@@ -205,6 +205,6 @@ Analisis dapat ditingkatkan dengan:
 Dengan mengatasi keterbatasan ini dan mengembangkan analisis lebih lanjut, pihak hotel dapat memperoleh pemahaman yang lebih komprehensif tentang faktor-faktor yang memengaruhi pembatalan pemesanan dan mengambil langkah-langkah yang lebih efektif untuk mengurangi pembatalan dan meningkatkan kinerja bisnis.
 
 ## Penulis
- * Nama  : Muhammad Luthfi
- * NIM   : 202110370311360
- * Kelas : Big Data C
+Nama  : Muhammad Luthfi
+NIM   : 202110370311360
+Kelas : Big Data C
