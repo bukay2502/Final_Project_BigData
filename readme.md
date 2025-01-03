@@ -7,6 +7,7 @@
   * [Data Preparation](#data-preparation)
   * [Eksplorasi dan Analisis Data](#eksplorasi-dan-analisis-data)
   * [Rangkuman](#rangkuman)
+  * [Penulis](#penulis)
 
 ## Pendahuluan
 
@@ -203,7 +204,7 @@ Analisis dapat ditingkatkan dengan:
 
 Dengan mengatasi keterbatasan ini dan mengembangkan analisis lebih lanjut, pihak hotel dapat memperoleh pemahaman yang lebih komprehensif tentang faktor-faktor yang memengaruhi pembatalan pemesanan dan mengambil langkah-langkah yang lebih efektif untuk mengurangi pembatalan dan meningkatkan kinerja bisnis.
 
-**Catatan:**
-
-  * Pastikan untuk mengganti "[Gambar 1]", "[Gambar 2]", dst. dengan gambar yang sesuai.
-  * Anda dapat menambahkan atau mengubah bagian sesuai kebutuhan.
+## Penulis
+ * Nama  : Muhammad Luthfi
+ * NIM   : 202110370311360
+ * Kelas : Big Data C
