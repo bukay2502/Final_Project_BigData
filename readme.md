@@ -58,7 +58,7 @@ Berikut adalah daftar package Python yang digunakan dalam analisis ini. Pastikan
   * **python:** 3.10.16
   * **pandas:** 2.2.3 (untuk manipulasi dan analisis data)
   * **tabulate:** 0.9.0 (untuk menampilkan data dalam bentuk tabel)
-  * **scikit-learn:** 1.6.0 (untuk machine learning, jika diperlukan)
+  * **scikit-learn:** 1.6.0 (untuk melakukan encoding, dan machine learning jika diperlukan)
   * **matplotlib:** 3.10.0 (untuk visualisasi data)
 
 ## Data Preparation
